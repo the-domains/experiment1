@@ -1,0 +1,28 @@
+name: experiment1
+favicon: null
+layout_spectrum: 0.2530338717624545
+typography_spectrum: 0.6882914460729808
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9780626907013357
+  lightness: 0.243196060648188
+  saturation: 0.16727148834615946
+  rhythmicContrast: 0.5348854379262775
+purpose: []
